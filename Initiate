@@ -1,1 +1,3 @@
+mkldir project  
+cd project
 git init
